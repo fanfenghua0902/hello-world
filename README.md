@@ -1,2 +1,2 @@
 # hello-world
-My First project not Git
+My First project on Git
